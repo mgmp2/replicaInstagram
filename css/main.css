@@ -1,0 +1,30 @@
+  .mg-top-0 {
+    margin: 0;
+  }
+  .negrita {
+    font-weight: 700;
+  }
+  .navbar-default img{
+    width: 65%;
+  }
+  .navbar-default h1 {
+    font-size: 1.7rem;
+    font-weight: 600;
+  }
+  .navbar-default .row {
+    display: flex;
+    align-items: center;
+  }
+
+  .photos [class*=col-] {
+    padding: 1px;
+  }
+  .btn-primary {
+    margin: 2rem auto;
+  }
+  @media (max-width: 768) {
+
+
+
+
+  }
